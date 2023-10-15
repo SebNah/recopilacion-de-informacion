@@ -1,0 +1,4 @@
+www.moonpay.com
+moonpay.com
+static.moonpay.com
+account.moonpay.com

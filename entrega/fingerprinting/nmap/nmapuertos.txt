@@ -1,0 +1,154 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-10-15 02:50 EDT
+Nmap scan report for dashboard.moonpay.com (104.18.43.191)
+Host is up (0.031s latency).
+Other addresses for dashboard.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for page.moonpay.com (172.64.145.98)
+Host is up (0.037s latency).
+Other addresses for page.moonpay.com (not scanned): 104.18.42.158 2606:4700:4400::ac40:9162 2606:4700:4400::6812:2a9e
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for web3.moonpay.com (172.64.144.65)
+Host is up (0.035s latency).
+Other addresses for web3.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for access.moonpay.com (208.127.231.159)
+Host is up (0.18s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for security.moonpay.com (151.101.218.204)
+Host is up (0.033s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for status.moonpay.com (3.160.119.46)
+Host is up (0.030s latency).
+Other addresses for status.moonpay.com (not scanned): 3.160.119.119 3.160.119.11 3.160.119.128
+rDNS record for 3.160.119.46: server-3-160-119-46.eze50.r.cloudfront.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for buy.moonpay.com (104.18.43.191)
+Host is up (0.042s latency).
+Other addresses for buy.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for www.moonpay.com (172.64.144.65)
+Host is up (0.043s latency).
+Other addresses for www.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for sell.moonpay.com (104.18.43.191)
+Host is up (0.031s latency).
+Other addresses for sell.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for static.moonpay.com (172.64.144.65)
+Host is up (0.034s latency).
+Other addresses for static.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for concierge.moonpay.com (104.18.43.191)
+Host is up (0.030s latency).
+Other addresses for concierge.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for changelog.moonpay.com (172.64.144.65)
+Host is up (0.030s latency).
+Other addresses for changelog.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for account.moonpay.com (104.18.43.191)
+Host is up (0.034s latency).
+Other addresses for account.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for www.MoonPay.com (104.18.43.191)
+Host is up (0.035s latency).
+Other addresses for www.MoonPay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for fp.moonpay.com (104.18.43.191)
+Host is up (0.034s latency).
+Other addresses for fp.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for memberships.moonpay.com (104.18.43.191)
+Host is up (0.035s latency).
+Other addresses for memberships.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 16 IP addresses (16 hosts up) scanned in 64.47 seconds

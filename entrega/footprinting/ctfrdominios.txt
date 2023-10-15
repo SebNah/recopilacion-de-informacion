@@ -1,0 +1,6 @@
+moonpay.com
+cpanel.moonpay.com
+mail.moonpay.com
+webdisk.moonpay.com
+webmail.moonpay.com
+www.moonpay.com

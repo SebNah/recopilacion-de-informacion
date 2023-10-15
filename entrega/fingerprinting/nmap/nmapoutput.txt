@@ -1,0 +1,79 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-10-15 02:36 EDT
+Nmap scan report for access.moonpay.com (208.127.231.159)
+Host is up (0.18s latency).
+Nmap scan report for account.moonpay.com (172.64.144.65)
+Host is up (0.028s latency).
+Other addresses for account.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for api.moonpay.com (104.18.43.191)
+Host is up (0.034s latency).
+Other addresses for api.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for page.moonpay.com (104.18.42.158)
+Host is up (0.034s latency).
+Other addresses for page.moonpay.com (not scanned): 172.64.145.98 2606:4700:4400::6812:2a9e 2606:4700:4400::ac40:9162
+Nmap scan report for security.moonpay.com (151.101.218.204)
+Host is up (0.034s latency).
+Nmap scan report for status.moonpay.com (3.160.119.46)
+Host is up (0.034s latency).
+Other addresses for status.moonpay.com (not scanned): 3.160.119.11 3.160.119.119 3.160.119.128
+rDNS record for 3.160.119.46: server-3-160-119-46.eze50.r.cloudfront.net
+Nmap scan report for support.moonpay.com (104.16.53.111)
+Host is up (0.028s latency).
+Other addresses for support.moonpay.com (not scanned): 104.16.51.111
+Nmap scan report for auth.moonpay.com (104.18.43.191)
+Host is up (0.027s latency).
+Other addresses for auth.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for concierge.moonpay.com (172.64.144.65)
+Host is up (0.034s latency).
+Other addresses for concierge.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for qr.moonpay.com (104.18.42.158)
+Host is up (0.027s latency).
+Other addresses for qr.moonpay.com (not scanned): 172.64.145.98 2606:4700:4400::ac40:9162 2606:4700:4400::6812:2a9e
+Nmap scan report for buy.moonpay.com (104.18.43.191)
+Host is up (0.030s latency).
+Other addresses for buy.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for dashboard.moonpay.com (172.64.144.65)
+Host is up (0.030s latency).
+Other addresses for dashboard.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for buy-staging.moonpay.com (104.18.43.191)
+Host is up (0.028s latency).
+Other addresses for buy-staging.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for dev.moonpay.com (172.64.144.65)
+Host is up (0.035s latency).
+Other addresses for dev.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for changelog.moonpay.com (104.18.43.191)
+Host is up (0.030s latency).
+Other addresses for changelog.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for go.moonpay.com (172.64.144.65)
+Host is up (0.030s latency).
+Other addresses for go.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for clicks.moonpay.com (104.18.43.191)
+Host is up (0.030s latency).
+Other addresses for clicks.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for memberships.moonpay.com (172.64.144.65)
+Host is up (0.030s latency).
+Other addresses for memberships.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for consumer-api.moonpay.com (104.18.43.191)
+Host is up (0.028s latency).
+Other addresses for consumer-api.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for sell.moonpay.com (172.64.144.65)
+Host is up (0.028s latency).
+Other addresses for sell.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for docs.moonpay.com (104.18.43.191)
+Host is up (0.030s latency).
+Other addresses for docs.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for web3.moonpay.com (172.64.144.65)
+Host is up (0.030s latency).
+Other addresses for web3.moonpay.com (not scanned): 104.18.43.191 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for fp.moonpay.com (104.18.43.191)
+Host is up (0.028s latency).
+Other addresses for fp.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for nft.moonpay.com (104.18.43.191)
+Host is up (0.028s latency).
+Other addresses for nft.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::6812:2bbf 2606:4700:4400::ac40:9041
+Nmap scan report for static.moonpay.com (104.18.43.191)
+Host is up (0.027s latency).
+Other addresses for static.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap scan report for www.moonpay.com (104.18.43.191)
+Host is up (0.028s latency).
+Other addresses for www.moonpay.com (not scanned): 172.64.144.65 2606:4700:4400::ac40:9041 2606:4700:4400::6812:2bbf
+Nmap done: 26 IP addresses (26 hosts up) scanned in 10.08 seconds

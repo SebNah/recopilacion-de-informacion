@@ -1,0 +1,16 @@
+dashboard.moonpay.com
+page.moonpay.com
+buy.moonpay.com
+sell.moonpay.com
+concierge.moonpay.com
+account.moonpay.com
+www.MoonPay.com
+web3.moonpay.com
+www.moonpay.com
+fp.moonpay.com
+memberships.moonpay.com
+static.moonpay.com
+access.moonpay.com
+changelog.moonpay.com
+security.moonpay.com
+status.moonpay.com
